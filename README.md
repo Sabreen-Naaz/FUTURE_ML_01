@@ -7,7 +7,7 @@ Sales forecasting is an important business process used to predict future sales 
 In this project, a Machine Learning model is built to analyze past sales trends and forecast future demand.
 This helps businesses in better planning, inventory management, and decision-making.
 
-🎯 Objective
+## 🎯 Objective
 
 The main goal of this project is:
 
@@ -19,7 +19,7 @@ To predict future sales values
 
 To visualize sales trends for business interpretation
 
-🧠 Machine Learning Approach
+## 🧠 Machine Learning Approach
 
 A Linear Regression model is used for forecasting.
 
@@ -31,7 +31,7 @@ Dependent variable: Sales
 
 The model learns the trend from past data and uses it to predict future sales values.
 
-🛠 Tools & Technologies Used
+## 🛠 Tools & Technologies Used
 
 Python – Programming language
 
@@ -45,7 +45,7 @@ Scikit-learn – Machine Learning model building
 
 Jupyter Notebook – Interactive development environment
 
-🧹 Data Preprocessing
+## 🧹 Data Preprocessing
 
 The following preprocessing steps were performed:
 
@@ -57,7 +57,7 @@ Checking dataset structure and data types
 
 These steps ensure that the data is suitable for Machine Learning models.
 
-📈 Model Training & Evaluation
+## 📈 Model Training & Evaluation
 
 The dataset was split into input (X) and output (y) variables
 
@@ -69,7 +69,7 @@ Predicted values were visualized along with actual sales
 
 This helps in understanding the accuracy and trend of predictions.
 
-📊 Results & Visualization
+## 📊 Results & Visualization
 
 A line graph is used to:
 
