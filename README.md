@@ -1,7 +1,9 @@
-# FUTURE_ML_01
-Machine Learning Internship Task 1 – Sales/Demand Forecasting
-📊 Sales & Demand Forecasting using Machine Learning
-📌 Project Overview
+FUTURE_ML_01
+
+# Machine Learning Internship Task 1 – Sales/Demand Forecasting
+
+## 📊 Sales & Demand Forecasting using Machine Learning
+## 📌 Project Overview
 
 Sales forecasting is an important business process used to predict future sales based on historical data.
 In this project, a Machine Learning model is built to analyze past sales trends and forecast future demand.
@@ -9,7 +11,7 @@ This helps businesses in better planning, inventory management, and decision-mak
 
 ## 🎯 Objective
 
-The main goal of this project is:
+The main goals of this project are:
 
 To understand historical sales patterns
 
@@ -18,6 +20,27 @@ To build a forecasting model using Machine Learning
 To predict future sales values
 
 To visualize sales trends for business interpretation
+
+## 📂 Dataset Used
+
+This project uses the Superstore Sales Dataset obtained from Kaggle.
+
+The dataset contains historical sales records including:
+
+Order Date
+
+Product Category
+
+Region
+
+Sales Amount
+
+Customer Information
+
+These historical records are used to analyze past trends and train the Machine Learning forecasting model.
+
+Dataset Source:
+Kaggle – Superstore Sales Dataset (Retail sales data for forecasting and trend analysis)
 
 ## 🧠 Machine Learning Approach
 
@@ -55,6 +78,8 @@ Feature engineering by converting dates into numerical values
 
 Checking dataset structure and data types
 
+Handling missing values (if present)
+
 These steps ensure that the data is suitable for Machine Learning models.
 
 ## 📈 Model Training & Evaluation
@@ -77,7 +102,9 @@ Display historical sales data
 
 Show future sales forecasts
 
-The visualization makes it easy for non-technical users to understand sales trends.
+The visualization makes it easy for non-technical users to understand sales trends and future demand patterns.
 
+## 📌 Conclusion
 
-
+This project demonstrates how Machine Learning can be applied to real-world business problems such as sales forecasting.
+The developed model helps businesses make better planning decisions by predicting future sales trends using historical data.
